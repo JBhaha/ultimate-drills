@@ -1,0 +1,12 @@
+name: xDxD
+version: 1.0
+author: JBhaha
+main: com.jbhaha.xdxd.xDxD
+api-version: 1.14
+commands:
+  giveNetheriteDrill:
+    description: Gives our custom item to the player.
+    usage: /<command>
+  givearrow:
+    description: Gives our custom item to the player.
+    usage: /<command>
